@@ -1,1 +1,3 @@
-git remote add origin 
+#!/bin/bash
+
+git remote add origin $!
