@@ -34,3 +34,10 @@ source .zshrc  # Unleash the magic
 ```
 Manual Mode 😎
 No automation? No problem. Add .script/$PATH to your PATH manually like a pro.
+
+# Note 
+before any thing  install gh cli
+- in ubuntu
+  ```bash
+  gh auth login
+  ```
